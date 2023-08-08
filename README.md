@@ -20,6 +20,10 @@ Join 40K+ developers in learning how to responsibly deliver value with ML.
 <br>
 <hr>
 
+## Status
+
+Continue from Model > Training > Setup.
+
 ## Lessons
 
 Learn how to combine machine learning with software engineering to design, develop, deploy and iterate on production-grade ML applications.
