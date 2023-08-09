@@ -20,9 +20,9 @@ Join 40K+ developers in learning how to responsibly deliver value with ML.
 <br>
 <hr>
 
-## Status
+## Bookmark
 
-Continue from Model > Training > Setup.
+Continue from Utilities
 
 ## Lessons
 
