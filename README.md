@@ -22,7 +22,7 @@ Join 40K+ developers in learning how to responsibly deliver value with ML.
 
 ## Bookmark
 
-Continue from Utilities
+Continue from "Testing"
 
 ## Lessons
 
